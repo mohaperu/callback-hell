@@ -1,0 +1,15 @@
+body{
+	background-color: rgba(131, 123, 123, 0.501);
+}
+
+.count{
+	background-color: white;
+	width: 34rem;
+	font-size: 3rem;
+	text-align: center;
+	padding-top: 15rem;
+	padding-bottom: 15rem;
+	border-radius: 35rem;
+	margin: 3rem 25rem 0 25rem ;
+
+}
